@@ -1,0 +1,6 @@
+name,age,roll
+'kashika',12,100
+'kanika',23,234
+'sunny',23,102
+'bunny',323,123
+'ashish',23,133

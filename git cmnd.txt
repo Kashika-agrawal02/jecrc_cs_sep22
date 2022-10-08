@@ -1,0 +1,23 @@
+GIT Process-
+-----------------
+
+> Create new repository
+>provide valid name
+>Select Public repo
+>finish
+
+
+goto your folder (for e.g.-)
+type cmd in adrs bar then enter 
+GIT Commands.  Taining(folder name)
+---------------------------
+git init             #initialze the GIT folder
+git add .           # add all files and folders in git folder
+git config user.name "your name"
+git config user email "your email id"
+git remote add origin "yourrepolink.git"
+
+
+git commit-m 'anymessage'
+git push - u origin main
+

@@ -1,0 +1,4 @@
+1.a funcan be assigned in a identifiers 
+2.a fun can be taken as input argument in anothoer  fun
+3.a fun can be defined inside a python fun
+4.a fun can be return to another fun
